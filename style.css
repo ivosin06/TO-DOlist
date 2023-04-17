@@ -1,0 +1,7 @@
+.todo{
+    width: 50%;
+    margin: auto;
+}
+.tachado{
+    text-decoration :"line-through";
+}
